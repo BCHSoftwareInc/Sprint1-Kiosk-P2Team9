@@ -21,5 +21,5 @@ Welcome to your team's official codebase for the current development cycle.
 ## 👥 Assigned Team Roster
 * **Product Manager (PM):** Liam B
 * **Software Engineer (SE):** Ethan I
-* **Cyber Compliance Analyst (CCA):**
+* **Cyber Compliance Analyst (CCA):** German M.
 * **QA Tester (QA):** Pheonix H
